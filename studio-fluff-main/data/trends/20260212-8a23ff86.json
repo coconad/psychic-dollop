@@ -1,0 +1,241 @@
+{
+  "id": "20260212-8a23ff86",
+  "timestamp": "2026-02-12T20:48:03.076Z",
+  "config": {
+    "keywords": [
+      "dog",
+      "puppy",
+      "dog tricks"
+    ],
+    "platforms": [
+      "tiktok"
+    ],
+    "region": "US"
+  },
+  "summary": {
+    "totalTrends": 19,
+    "topHashtags": [
+      "#littlemanyu",
+      "#shibainu",
+      "#manyuland",
+      "#cute",
+      "#dogsoftiktok",
+      "#spa",
+      "#asmr",
+      "#2026",
+      "#westie",
+      "#dogs"
+    ],
+    "topThemes": [
+      "grooming",
+      "training"
+    ],
+    "dogRelevanceScore": 0.31
+  },
+  "platforms": {
+    "tiktok": {
+      "status": "success",
+      "scannedAt": "2026-02-12T20:48:03.073Z",
+      "trends": [
+        {
+          "type": "hashtag",
+          "value": "#littlemanyu",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#shibainu",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#manyuland",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#cute",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogsoftiktok",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.7,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#spa",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#asmr",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#2026",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#westie",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogs",
+          "views": 381600,
+          "engagementRate": 0.0636,
+          "recentPosts": 1,
+          "dogRelevance": 0.6,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtraining",
+          "views": 15500000,
+          "engagementRate": 0.1466,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtricks",
+          "views": 15500000,
+          "engagementRate": 0.1466,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#bordercolli",
+          "views": 15500000,
+          "engagementRate": 0.1466,
+          "recentPosts": 1,
+          "dogRelevance": 0.15,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#foryoupage",
+          "views": 13000000,
+          "engagementRate": 0.0078,
+          "recentPosts": 1,
+          "dogRelevance": 0.35,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#puppydog",
+          "views": 13000000,
+          "engagementRate": 0.0078,
+          "recentPosts": 1,
+          "dogRelevance": 0.75,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#foruyou",
+          "views": 13000000,
+          "engagementRate": 0.0078,
+          "recentPosts": 1,
+          "dogRelevance": 0.35,
+          "themes": []
+        },
+        {
+          "type": "sound",
+          "value": "original sound",
+          "soundId": "tiktok:7604792903671597837",
+          "author": "",
+          "uses": 1,
+          "dogRelevance": 0,
+          "themes": []
+        },
+        {
+          "type": "sound",
+          "value": "original sound",
+          "soundId": "tiktok:7258062219836984106",
+          "author": "",
+          "uses": 1,
+          "dogRelevance": 0,
+          "themes": []
+        },
+        {
+          "type": "sound",
+          "value": "原聲",
+          "soundId": "tiktok:7597341295626980118",
+          "author": "",
+          "uses": 1,
+          "dogRelevance": 0,
+          "themes": []
+        }
+      ]
+    }
+  },
+  "errors": []
+}

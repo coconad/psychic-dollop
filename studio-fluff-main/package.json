@@ -1,0 +1,17 @@
+{
+  "name": "studio-fluff",
+  "version": "1.0.0",
+  "description": "Social media content pipeline for Dante (Poodle) and Flora (Maltipoo)",
+  "type": "module",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "scripts": {
+    "trend-scout": "node --env-file=.env .claude/skills/trend-scout/scripts/search_trends.js",
+    "generate-image": "node --env-file=.env .claude/skills/generate-image/scripts/gemini_generate.js",
+    "generate-video:veo": "node --env-file=.env .claude/skills/generate-video/scripts/veo3_generate.js",
+    "generate-video:kling": "node --env-file=.env .claude/skills/generate-video/scripts/kling_generate.js",
+    "post:instagram": "node --env-file=.env .claude/skills/post-content/scripts/post_instagram.js",
+    "post:tiktok": "node --env-file=.env .claude/skills/post-content/scripts/post_tiktok.js"
+  }
+}

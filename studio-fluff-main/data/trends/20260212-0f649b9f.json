@@ -1,0 +1,1012 @@
+{
+  "id": "20260212-0f649b9f",
+  "timestamp": "2026-02-12T20:48:54.690Z",
+  "config": {
+    "keywords": [
+      "dog",
+      "puppy",
+      "dog tricks"
+    ],
+    "platforms": [
+      "tiktok",
+      "instagram"
+    ],
+    "region": "US"
+  },
+  "summary": {
+    "totalTrends": 72,
+    "topHashtags": [
+      "#puppy",
+      "#dogtraining",
+      "#dogtricks",
+      "#dachshund",
+      "#minidachshund",
+      "#fyp",
+      "#dogsofttiktok",
+      "#bordercolli",
+      "#greatdane",
+      "#dogsoftiktok"
+    ],
+    "topThemes": [
+      "training",
+      "outdoor",
+      "health",
+      "comedy",
+      "transformation"
+    ],
+    "dogRelevanceScore": 0.44
+  },
+  "platforms": {
+    "tiktok": {
+      "status": "success",
+      "scannedAt": "2026-02-12T20:48:54.688Z",
+      "trends": [
+        {
+          "type": "hashtag",
+          "value": "#dachshund",
+          "views": 857300,
+          "engagementRate": 0.1553,
+          "recentPosts": 1,
+          "dogRelevance": 0.4,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#minidachshund",
+          "views": 857300,
+          "engagementRate": 0.1553,
+          "recentPosts": 1,
+          "dogRelevance": 0.4,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#puppy",
+          "views": 857300,
+          "engagementRate": 0.1553,
+          "recentPosts": 1,
+          "dogRelevance": 0.7,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#fyp",
+          "views": 857300,
+          "engagementRate": 0.1553,
+          "recentPosts": 1,
+          "dogRelevance": 0.4,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogsofttiktok",
+          "views": 857300,
+          "engagementRate": 0.1553,
+          "recentPosts": 1,
+          "dogRelevance": 0.7,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtraining",
+          "views": 15500000,
+          "engagementRate": 0.1466,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtricks",
+          "views": 15500000,
+          "engagementRate": 0.1466,
+          "recentPosts": 1,
+          "dogRelevance": 0.3,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#bordercolli",
+          "views": 15500000,
+          "engagementRate": 0.1466,
+          "recentPosts": 1,
+          "dogRelevance": 0.15,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#greatdane",
+          "views": 17600000,
+          "engagementRate": 0.0645,
+          "recentPosts": 1,
+          "dogRelevance": 0.25,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogsoftiktok",
+          "views": 17600000,
+          "engagementRate": 0.0645,
+          "recentPosts": 1,
+          "dogRelevance": 0.65,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#bigguy",
+          "views": 17600000,
+          "engagementRate": 0.0645,
+          "recentPosts": 1,
+          "dogRelevance": 0.25,
+          "themes": []
+        },
+        {
+          "type": "sound",
+          "value": "Theme from a Wiener Dog Riding a Skateboard",
+          "soundId": "tiktok:6764036148986644482",
+          "author": "",
+          "uses": 1,
+          "dogRelevance": 0.3,
+          "themes": []
+        },
+        {
+          "type": "sound",
+          "value": "original sound",
+          "soundId": "tiktok:7258062219836984106",
+          "author": "",
+          "uses": 1,
+          "dogRelevance": 0,
+          "themes": []
+        },
+        {
+          "type": "sound",
+          "value": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants”",
+          "soundId": "tiktok:7569799145982167056",
+          "author": "",
+          "uses": 1,
+          "dogRelevance": 0,
+          "themes": []
+        }
+      ]
+    },
+    "instagram": {
+      "status": "success",
+      "scannedAt": "2026-02-12T20:48:49.312Z",
+      "trends": [
+        {
+          "type": "hashtag",
+          "value": "#dog",
+          "postsCount": 7,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.65,
+          "themes": [
+            "grooming",
+            "lifestyle",
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#puppy",
+          "postsCount": 5,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.8,
+          "themes": [
+            "grooming",
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogsofinstagram",
+          "postsCount": 4,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.9,
+          "themes": [
+            "comedy",
+            "lifestyle",
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtricks",
+          "postsCount": 4,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "grooming",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#cute",
+          "postsCount": 2,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.5,
+          "themes": [
+            "comedy",
+            "lifestyle"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#doggrooming",
+          "postsCount": 2,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.7,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogsofinsta",
+          "postsCount": 2,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.75,
+          "themes": [
+            "comedy",
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogagilitytraining",
+          "postsCount": 2,
+          "avgLikes": 2,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#valentines",
+          "postsCount": 2,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.45,
+          "themes": [
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#valentinesday",
+          "postsCount": 2,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image",
+            "carousel"
+          ],
+          "dogRelevance": 0.45,
+          "themes": [
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#creche",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.2,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#hotelpet",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.35,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#crecheaguáverde",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.2,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#aguaverde",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.2,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#pet",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.65,
+          "themes": [
+            "lifestyle"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#pets",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.65,
+          "themes": [
+            "lifestyle"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#smalldogsofinstagram",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.7,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#disableddog",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.45,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#doginfluencer",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.45,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#princesspup",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.45,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#cavapoo",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.2,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogwalkingservices",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.4,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogwalker",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.4,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogwalkinglife",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.4,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogwalking",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.4,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogwalkingbusiness",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.4,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#sticks",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.25,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#stickseason",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.25,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#floof",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.25,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#floofsofinstagram",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.25,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#flooflife",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.25,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#floofydog",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.4,
+          "themes": [
+            "outdoor"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtricktraining",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogagility",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtrainersofinstagram",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtraining",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtrainer",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtrainingclasses",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#puppyclass",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.75,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#puppies",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.6,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#claresuffolk",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.45,
+          "themes": [
+            "training",
+            "health",
+            "transformation"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#ckcs",
+          "postsCount": 1,
+          "avgLikes": 2,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.15,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#malinois",
+          "postsCount": 1,
+          "avgLikes": 2,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.15,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogtrainingadvice",
+          "postsCount": 1,
+          "avgLikes": 2,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.3,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#belgianmalinois",
+          "postsCount": 1,
+          "avgLikes": 2,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.15,
+          "themes": [
+            "training"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#groomer",
+          "postsCount": 1,
+          "avgLikes": -1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.2,
+          "themes": [
+            "training",
+            "grooming",
+            "health"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#puppylove",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.5,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#shihpoo",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.4,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#cutedog",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.55,
+          "themes": [
+            "grooming"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#lab",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.45,
+          "themes": [
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#labrador",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.45,
+          "themes": [
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#blacklab",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.45,
+          "themes": [
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#blacklabpuppy",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.75,
+          "themes": [
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#funny",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.45,
+          "themes": [
+            "comedy"
+          ]
+        },
+        {
+          "type": "hashtag",
+          "value": "#pomeranian",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.2,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#love",
+          "postsCount": 1,
+          "avgLikes": 0,
+          "avgComments": 0,
+          "topPostTypes": [
+            "image"
+          ],
+          "dogRelevance": 0.2,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogfriendly",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.6,
+          "themes": []
+        },
+        {
+          "type": "hashtag",
+          "value": "#dogs",
+          "postsCount": 1,
+          "avgLikes": 1,
+          "avgComments": 0,
+          "topPostTypes": [
+            "carousel"
+          ],
+          "dogRelevance": 0.75,
+          "themes": []
+        }
+      ]
+    }
+  },
+  "errors": []
+}

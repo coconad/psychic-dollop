@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f7a1b2c3-d4e5-4f6a-8b9c-0d1e2f3a4b5c",
+    "title": "Valentine's Date Night",
+    "concept": "Dante and Flora sitting at a small table set for two with a red tablecloth, candle, and dog treats on plates. Dante gives Flora his classic side-eye while Flora stares at the camera with her big innocent eyes. The contrast — Dante acting too cool for romance vs Flora being adorably sweet — is the hook.",
+    "dogs": ["dante", "flora"],
+    "platforms": ["instagram", "tiktok"],
+    "visual_direction": "Indoor dining setup, warm candlelight, Valentine's decorations (red tablecloth, small candle, heart confetti). Close-up of both dogs sitting at a tiny table facing each other, Dante giving a side-eye and Flora with wide innocent eyes looking at camera. Warm golden tones, cozy mood. Vertical 9:16.",
+    "caption_direction": "Valentine's humor, 'my Valentine vs me at dinner' energy. Dante's sophisticated-but-silly voice. CTA: tag your Valentine or ask 'which one are you on a date?'. Hashtags: #valentinesday #puppylove #dogsofinstagram #cute #dogsoftiktok #valentines",
+    "trend_source": "#valentines + #valentinesday trending on Instagram (scan 20260212-d8ff4902)",
+    "scheduled_date": "2026-02-14",
+    "status": "published",
+    "created_at": "2026-02-13T12:00:00.000Z",
+    "image_path": "output/images/f7a1b2c3-d4e5-4f6a-8b9c-0d1e2f3a4b5c.png",
+    "video_path": "output/videos/f7a1b2c3-d4e5-4f6a-8b9c-0d1e2f3a4b5c.mp4",
+    "published_platforms": {
+      "instagram": {
+        "published_at": "2026-02-14T13:05:00.000Z",
+        "type": "reel"
+      },
+      "tiktok": {
+        "published_at": "2026-02-14T13:10:00.000Z",
+        "type": "video"
+      }
+    },
+    "instagram_caption": "She showed up. He pretended he didn't care.\n\nDante spent the whole dinner giving side-eye while Flora just sat there looking adorable, wondering why he wasn't sharing his treats. This is basically every couple's dinner — one who planned the whole thing and one who's \"just here for the food.\"\n\nWhich one are you on a date? Be honest. 👇\n\n#ValentinesDay #PuppyLove #DogsOfInstagram #PoodlesOfInstagram #MaltipooLife #DogValentine #CuteDogs",
+    "instagram_alt_text": "A brown standard poodle with a teddy bear cut and a small white maltipoo sit facing each other at a tiny table with a red tablecloth, a candle, and dog treats on plates. The poodle gives a side-eye while the maltipoo looks at the camera with wide, innocent eyes. Heart confetti is scattered on the table.",
+    "tiktok_caption": "He showed up and immediately regretted it 😂 Happy Valentine's Day from the world's most dramatic date\n\n#ValentinesDay #DogsOfTikTok #FunnyDog #PuppyLove",
+    "tiktok_sound_suggestion": "Romantic classical music (like a waltz) for comedic contrast with Dante's unimpressed expression"
+  },
+  {
+    "id": "a8b9c0d1-e2f3-4a5b-6c7d-8e9f0a1b2c3d",
+    "title": "Spa Day Glow Up",
+    "concept": "Flora's grooming transformation — messy fluffy hair to perfect cloud poof. The hook is the dramatic reveal of her fluffy cloud look after grooming. Plays into trending grooming/ASMR content on TikTok and the #floof hashtags on Instagram.",
+    "dogs": ["flora"],
+    "platforms": ["instagram", "tiktok"],
+    "visual_direction": "Bright, clean bathroom or grooming setting. Single moment: Flora freshly groomed, looking at camera with her white fluffy cloud coat perfectly round and shaped, head tilted slightly, big dark eyes, tongue out. Soft diffused lighting, white/pastel background. Vertical 9:16.",
+    "caption_direction": "Glow-up humor, 'she came out looking like a cloud' or 'floof level: maximum'. Flora's sweet innocent voice. CTA: rate her glow up 1-10. Hashtags: #doggrooming #floof #floofsofinstagram #maltipoo #beforeandafter #cute #spa",
+    "trend_source": "#doggrooming + #spa + #asmr trending on TikTok (scan 20260212-8a23ff86); #floof on Instagram",
+    "scheduled_date": "2026-02-15",
+    "status": "video_done",
+    "created_at": "2026-02-13T12:00:00.000Z",
+    "image_path": "output/images/a8b9c0d1-e2f3-4a5b-6c7d-8e9f0a1b2c3d.png",
+    "video_path": "output/videos/a8b9c0d1-e2f3-4a5b-6c7d-8e9f0a1b2c3d.mp4",
+    "instagram_caption": "She went in looking like a mop. She came out looking like a cloud.\n\nFlora's grooming day is the highlight of her entire month — not because she loves being groomed, but because she knows everyone will lose their minds over the reveal. Two hours of brushing, one dramatic head tilt, and suddenly she's the fluffiest thing you've ever seen.\n\nRate her glow up 1-10. She's watching. 👀\n\n#DogGrooming #Floof #FloofsOfInstagram #MaltipooLife #GlowUp #CuteDog #SpaDay",
+    "instagram_alt_text": "A small white maltipoo freshly groomed with a perfectly round, fluffy cloud-like coat. She tilts her head slightly at the camera with big dark round eyes and her tongue sticking out. The background is a bright, clean bathroom with soft white lighting.",
+    "tiktok_caption": "From mop to cloud in 2 hours ☁️ She knows she looks good\n\n#DogGrooming #Floof #DogsOfTikTok #GlowUp",
+    "tiktok_sound_suggestion": "Trending ASMR/satisfying transformation audio or dramatic reveal sound"
+  },
+  {
+    "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+    "title": "The Food Thief",
+    "concept": "Dante caught mid-steal — mouth around something he shouldn't have, giving the camera his most innocent 'what? I didn't do anything' look. His food thief persona is the hook. Pure comedy moment that's relatable to every dog owner.",
+    "dogs": ["dante"],
+    "platforms": ["instagram", "tiktok"],
+    "visual_direction": "Kitchen counter setting, natural daylight streaming in. Close-up of Dante's face with something in his mouth, wide guilty eyes with one eyebrow raised, brown teddy bear fluff framing his expressive face. Single frozen moment of being caught red-handed. Vertical 9:16.",
+    "caption_direction": "Comedy/relatable tone. Dante's sophisticated-but-silly voice: 'I didn't steal it. I relocated it to my mouth.' CTA: what does your dog steal? Hashtags: #funnydog #funnypet #dogsoftiktok #poodle #guilty #doglover #cutedog",
+    "trend_source": "#funnydog + #funnypet trending on TikTok (scan 20260212-8395f1ba)",
+    "scheduled_date": "2026-02-16",
+    "status": "caption_done",
+    "created_at": "2026-02-13T12:00:00.000Z",
+    "instagram_caption": "He didn't steal it. He simply relocated it to his mouth.\n\nDante has a very specific skill set. He can hear a cheese wrapper from three rooms away, counter-surf without making a sound, and look you dead in the eye like he has no idea what you're talking about. The audacity of this dog is honestly impressive.\n\nWhat does your dog steal? Drop it below, we need to compare notes. ⬇️\n\n#FunnyDog #PoodlesOfInstagram #DogsOfInstagram #GuiltyDog #DogLover #FunnyPet #PoodleLife",
+    "instagram_alt_text": "Close-up of a brown standard poodle with a teddy bear cut in a kitchen, caught with something in his mouth. He has wide, guilty eyes with one eyebrow raised, his curly brown fur framing his expressive face. Natural daylight streams in from a window behind him.",
+    "tiktok_caption": "POV: he was \"nowhere near the counter\" 🙄 The audacity of this poodle\n\n#FunnyDog #DogsOfTikTok #FunnyPet #GuiltyDog",
+    "tiktok_sound_suggestion": "Dramatic courtroom or detective audio for comedic 'caught red-handed' effect"
+  }
+]
