@@ -1,6 +1,6 @@
 # Studio Fluff
 
-Content creation pipeline for Dante (Poodle) and Flora (Maltipoo), built around modular Claude skills and script-based automation.
+Content creation pipeline for Dante (Poodle) and Flora (Maltipoo), built around modular Claude and Codex skills and script-based automation.
 
 ## Overview
 
